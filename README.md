@@ -1,6 +1,6 @@
 # dio-primeiro-repositorio
 Desafio GitHub
-repositório criado em aula para o desafio do github do Bootcamp Santander Fullstack Developer.
+Repositório criado em aula para o desafio do GitHub do Bootcamp Santander Fullstack Developer.
 
 
 ##links úteis
